@@ -21,6 +21,10 @@ const Home = () => {
           <label className="block mb-1">Upload Image:</label>
           <input type="file" className="border border-gray-300 p-2 w-full" />
         </div>
+        <div>
+          <label className="block mb-1">Nashith lavda:</label>
+          <input type="file" className="border border-gray-300 p-2 w-full" />
+        </div>
         <button
           type="submit"
           className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition duration-300"
